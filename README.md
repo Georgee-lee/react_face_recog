@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# SmartBrain은 원하는 사진의 주소를 입력하면 해당 사진에서 얼굴을 인식하는 간단한 앱 입니다.
+# SmartBrain\_ 사진에서 얼굴을 인식하는 간단한 앱
 
 ## Available Scripts
 
