@@ -10,3 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 smartBrain앱을 개발자 모드로 실행합니다.<br>
 [http://localhost:3000](http://localhost:3000) 에서 확인하실 수 있습니다.
+
+### 'preview'
+
+![thumbnail](./thumbnail/thumbnail.png)
